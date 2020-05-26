@@ -11,6 +11,6 @@ package java1;
  */
 public class J {
     public static void main(String[] args) {
-        System.out.println("abhiyash");
+        System.out.println("singh");
     }
 }
